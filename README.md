@@ -18,7 +18,7 @@ Google office-suit
 Clone this repository to your machine. Required libraries: pandas and numpy
 
 ## Bugs
-No know bugs
+No known bugs
 
 ## Licencing
 MIT
